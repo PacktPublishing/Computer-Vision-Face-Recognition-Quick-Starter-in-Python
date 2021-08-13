@@ -1,0 +1,11 @@
+While installing TensorFlow and Keras, (as shown in the next lecture)
+using 'conda install' commands will be slow and may fail to resolve.
+
+So I recommend to use the 'pip install' instead of 'conda install'
+
+For example:
+
+pip install tensorflow
+pip install keras
+
+Please keep this tip in mind and watch the next video

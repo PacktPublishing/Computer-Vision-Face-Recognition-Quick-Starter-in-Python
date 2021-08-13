@@ -1,0 +1,31 @@
+Close existing anaconda navigator and spyder.
+Then go to anacond prompt and execute the following commands
+
+To create a new conda environment (Python 3.6).
+---------------------------------------------
+(base)C:\users\yourname> conda create -n env_py_36 python=3.6
+
+Activate new Environment
+------------------------
+(base)C:\users\yourname> conda activate env_py_36
+
+Install Dlib
+------------
+(env_py_36)C:\users\yourname> pip install dlib
+
+=============================================
+
+
+If you want do exit from env_py_36
+-----------------------------------
+(env_py_36)C:\users\yourname> deactivate
+(base)C:\users\yourname>
+
+To list all existing environments
+----------------------------------
+(base)C:\users\yourname> conda env list
+
+If you want do permanently delete env_py_36
+------------------------------------------
+(base)C:\users\yourname> conda env remove -n env_py_36
+

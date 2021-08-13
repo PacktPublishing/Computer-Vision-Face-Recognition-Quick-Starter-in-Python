@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+-->
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <Control Control="EulaAcceptCheckbox" X="11" Y="-41" Width="-11" Height="29"/>
+
+  <String Id="Caption">Installation de [WixBundleName]</String>
+  <String Id="Title">[WixBundleName]</String>
+  <String Id="ConfirmCancelMessage">Voulez-vous vraiment annuler ?</String>
+  <String Id="HelpHeader">Aide du programme d'installation</String>
+  <String Id="HelpText">/install | /repair | /uninstall | /layout [directory] - installe, répare, désinstalle ou
+   crée une copie locale complète du groupe dans le répertoire. Install est l'option par défaut.
+
+/passive | /quiet -  affiche une interface minimale, sans invite, ou n'affiche ni interface
+   ni invite. Par défaut, l'interface et toutes les invites sont affichées.
+
+/norestart   - supprime toutes les tentatives de redémarrage. Par défaut, l'interface affiche une invite avant le redémarrage.
+/log log.txt - enregistre les informations dans un fichier spécifique. Par défaut, un fichier journal est créé dans %TEMP%.</String>
+  <String Id="HelpCloseButton">&amp;Fermer</String>
+  <String Id="InstallAcceptCheckbox">J'&amp;accepte les conditions générales de la licence</String>
+  <String Id="InstallOptionsButton">&amp;Options</String>
+  <String Id="InstallInstallButton">&amp;Installer</String>
+  <String Id="InstallCloseButton">&amp;Fermer</String>
+  <String Id="OptionsHeader">Options d'installation</String>
+  <String Id="OptionsLocationLabel">Emplacement de l'installation :</String>
+  <String Id="OptionsBrowseButton">&amp;Parcourir</String>
+  <String Id="OptionsOkButton">&amp;OK</String>
+  <String Id="OptionsCancelButton">&amp;Annuler</String>
+  <String Id="ProgressHeader">Progression de l'installation</String>
+  <String Id="ProgressLabel">En cours de traitement :</String>
+  <String Id="OverallProgressPackageText">Initialisation...</String>
+  <String Id="ProgressCancelButton">&amp;Annuler</String>
+  <String Id="ModifyHeader">Modifier l'installation</String>
+  <String Id="ModifyRepairButton">&amp;Réparer</String>
+  <String Id="ModifyUninstallButton">&amp;Désinstaller</String>
+  <String Id="ModifyCloseButton">&amp;Fermer</String>
+  <String Id="SuccessHeader">Installation/désinstallation réussie</String>
+  <String Id="SuccessLaunchButton">&amp;Démarrer</String>
+  <String Id="SuccessRestartText">Vous devez redémarrer votre ordinateur avant de pouvoir utiliser le logiciel.</String>
+  <String Id="SuccessRestartButton">&amp;Redémarrer</String>
+  <String Id="SuccessCloseButton">&amp;Fermer</String>
+  <String Id="FailureHeader">Échec de l'installation</String>
+  <String Id="FailureHyperlinkLogText">Le programme d'installation a échoué en raison d'un ou de plusieurs problèmes. Corrigez ces problèmes, puis relancez le programme d'installation. Pour plus d'informations, consultez le &lt;a href="#"&gt;fichier journal&lt;/a&gt;.</String>
+  <String Id="FailureRestartText">Vous devez redémarrer votre ordinateur pour terminer l'opération de restauration du logiciel.</String>
+  <String Id="FailureRestartButton">&amp;Redémarrer</String>
+  <String Id="FailureCloseButton">&amp;Fermer</String>
+</WixLocalization>

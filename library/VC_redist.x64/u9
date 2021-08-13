@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+-->
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <Control Control="EulaAcceptCheckbox" X="11" Y="-41" Width="-11" Height="29"/>
+
+  <String Id="Caption">[WixBundleName] - Setup</String>
+  <String Id="Title">[WixBundleName]</String>
+  <String Id="ConfirmCancelMessage">Möchten Sie den Vorgang wirklich abbrechen?</String>
+  <String Id="HelpHeader">Setup-Hilfe</String>
+  <String Id="HelpText">/install | /repair | /uninstall | /layout [Verzeichnis] - installiert, repariert, deinstalliert oder
+   erstellt eine vollständige lokale Kopie des Bundles im Verzeichnis. Installieren ist die Standardeinstellung.
+
+/passive | /quiet -  zeigt eine minimale Benutzeroberfläche ohne Eingabeaufforderungen oder keine
+   Benutzeroberfläche und keine Eingabeaufforderungen an. Standardmäßig werden die Benutzeroberfläche und alle Eingabeaufforderungen angezeigt.
+
+/norestart   - Unterdrückt alle Neustartversuche. Standardmäßig fordert die Benutzeroberfläche zum Bestätigen eines Neustarts auf.
+/log log.txt - Erstellt das Protokoll in einer bestimmten Datei. Standardmäßig wird die Protokolldatei in %TEMP% erstellt.</String>
+  <String Id="HelpCloseButton">S&amp;chließen</String>
+  <String Id="InstallAcceptCheckbox">Ich &amp;stimme den Bedingungen des Lizenzvertrags zu</String>
+  <String Id="InstallOptionsButton">&amp;Optionen</String>
+  <String Id="InstallInstallButton">&amp;Installieren</String>
+  <String Id="InstallCloseButton">S&amp;chließen</String>
+  <String Id="OptionsHeader">Setupoptionen</String>
+  <String Id="OptionsLocationLabel">Installationspfad:</String>
+  <String Id="OptionsBrowseButton">&amp;Durchsuchen</String>
+  <String Id="OptionsOkButton">&amp;OK</String>
+  <String Id="OptionsCancelButton">&amp;Abbrechen</String>
+  <String Id="ProgressHeader">Setupfortschritt</String>
+  <String Id="ProgressLabel">Wird verarbeitet:</String>
+  <String Id="OverallProgressPackageText">Wird initialisiert...</String>
+  <String Id="ProgressCancelButton">&amp;Abbrechen</String>
+  <String Id="ModifyHeader">Setup ändern</String>
+  <String Id="ModifyRepairButton">&amp;Reparieren</String>
+  <String Id="ModifyUninstallButton">&amp;Deinstallieren</String>
+  <String Id="ModifyCloseButton">S&amp;chließen</String>
+  <String Id="SuccessHeader">Setup wurde erfolgreich abgeschlossen</String>
+  <String Id="SuccessLaunchButton">&amp;Starten</String>
+  <String Id="SuccessRestartText">Sie müssen den Computer neu starten, bevor Sie die Software verwenden können.</String>
+  <String Id="SuccessRestartButton">&amp;Neustart</String>
+  <String Id="SuccessCloseButton">S&amp;chließen</String>
+  <String Id="FailureHeader">Setupfehler</String>
+  <String Id="FailureHyperlinkLogText">Setup ist aufgrund eines oder mehrerer Probleme fehlgeschlagen. Beheben Sie die Probleme, und führen Sie Setup erneut aus. Weitere Informationen finden Sie in der &lt;a href="#"&gt;Protokolldatei&lt;/a&gt;.</String>
+  <String Id="FailureRestartText">Sie müssen den Computer neu starten, um das Zurücksetzen der Software abzuschließen.</String>
+  <String Id="FailureRestartButton">&amp;Neustart</String>
+  <String Id="FailureCloseButton">S&amp;chließen</String>
+</WixLocalization>

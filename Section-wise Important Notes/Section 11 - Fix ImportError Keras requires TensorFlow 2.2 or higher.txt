@@ -1,0 +1,15 @@
+You may get an error that says "ImportError: Keras requires TensorFlow 2.2 or higher. Install TensorFlow via ‘pip install tensorflow’"  When trying to import keras
+
+This most times happens with windows OS
+
+Installing "Microsoft Visual C++ 2015-2019 Redistributable" will fix the issue.
+
+Download from Microsoft website https://download.visualstudio.microsoft.com/download/pr/d60aa805-26e9-47df-b4e3-cd6fcc392333/7D7105C52FCD6766BEEE1AE162AA81E278686122C1E44890712326634D0B055E/VC_redist.x64.exe
+
+OR Alternatively you may also download from my google drive also https://drive.google.com/file/d/1YFUm7UJAT5YfZoTDlPV2KIz2-aJinR1T/view?usp=sharing
+
+Close all Anaconda / Spyder windows, then install the above setup file.
+
+Once installation is complete , restart your computer. Start >> 'Restart'. (Make sure to do 'restart' itself. A shutdown and start may not work sometimes)
+
+Then launch spyder and check the program.

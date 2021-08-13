@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Garamond;}{\f2\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green32\blue96;\red0\green0\blue255;}
+{\*\generator Riched20 10.0.17763}\viewkind4\uc1 
+\pard\sb120\sa120\sl240\slmult1\b\f0\fs20\lang9 T\'c9RMINOS DE LA LICENCIA DE SOFTWARE DE MICROSOFT\par
+MICROSOFT VISUAL C++ 2019 RUNTIME\par
+\b0 Estos t\'e9rminos de licencia constituyen un contrato entre Microsoft Corporation (o, en funci\'f3n de donde resida, una de sus filiales) y usted. Se aplican al software antes mencionado. Los t\'e9rminos tambi\'e9n se aplican a cualquier servicio o actualizaci\'f3n de Microsoft para el software, excepto en la medida que tengan t\'e9rminos diferentes.\par
+\b SI USTED CUMPLE CON LOS PRESENTES T\'c9RMINOS DE ESTA LICENCIA, DISPONDR\'c1 DE LOS DERECHOS QUE SE DESCRIBEN A CONTINUACI\'d3N.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li357\sb120\sa120\sl240\slmult1\tx360 DERECHOS DE INSTALACI\'d3N Y DE USO. \b0\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-363\li357\sb120\sa120\sl240\slmult1\tx720 Puede instalar y utilizar cualquier n\'famero de copias del software.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li357\sb120\sa120\sl240\slmult1\tx360\b T\'c9RMINOS PARA COMPONENTES ESPEC\'cdFICOS.\b0\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-363\li720\sb120\sa120\sl240\slmult1\tx720\b Plataformas de Microsoft.  \b0 El software puede incluir componentes de Microsoft\~Windows, Microsoft\~Windows\~Server, Microsoft\~SQL\~Server, Microsoft\~Exchange, Microsoft\~Office y Microsoft\~SharePoint. Estos componentes se rigen por contratos independientes y sus propias directivas de soporte de productos, seg\'fan se describe en la carpeta\cf1\f1  \cf0\f0 "Licencias" de Microsoft que se incluye en el software, excepto que, si los t\'e9rminos de licencia para esos componentes tambi\'e9n se incluyen en el directorio de instalaci\'f3n asociado, esos t\'e9rminos de licencia prevalecen.\par
+{\pntext\f2\'B7\tab}\b Componentes de terceros.\~ \b0 El software puede incluir componentes de terceros con notificaciones legales independientes o regirse por otros contratos, tal como puede describirse en el archivo ThirdPartyNotices que se incluye en el software.\~ \par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li357\sb120\sa120\sl240\slmult1\tx360\b\'c1MBITO DE LA LICENCIA.\b0  El software se licencia, no se vende. Este contrato solo le otorga algunos derechos de uso del software. Microsoft se reserva todos los dem\'e1s derechos. A menos que la legislaci\'f3n aplicable le otorgue m\'e1s derechos a pesar de esta limitaci\'f3n, s\'f3lo podr\'e1 utilizar el software tal como se permite expresamente en este contrato. Al hacerlo, deber\'e1 ajustarse a las limitaciones t\'e9cnicas del software que s\'f3lo permiten utilizarlo de determinadas formas. No podr\'e1:\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-363\li720\sb120\sa120\sl240\slmult1\tx720 eludir las limitaciones t\'e9cnicas del software;\par
+{\pntext\f2\'B7\tab}utilizar t\'e9cnicas de ingenier\'eda inversa, descompilar o desensamblar el software, \fs19 as\'ed como tampoco derivar el c\'f3digo fuente del software,\fs20  excepto y solo en la medida que lo exijan los t\'e9rminos de licencia de terceros que rigen el uso de ciertos componentes de c\'f3digo abierto que se podr\'edan incluir en el software;\par
+{\pntext\f2\'B7\tab}eliminar, minimizar, bloquear o modificar ninguna notificaci\'f3n de Microsoft o sus proveedores en el software; \par
+{\pntext\f2\'B7\tab}utilizar el software de ninguna manera que est\'e9 en contra de la ley o\par
+{\pntext\f2\'B7\tab}compartir, publicar, alquilar o dar el software en pr\'e9stamo, ni entregarlo como soluci\'f3n hospedada independiente para que otros lo utilicen, as\'ed como tampoco transmitir el software ni este contrato a terceros.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li357\sb120\sa120\sl240\slmult1\tx360\b RESTRICCIONES EN MATERIA DE EXPORTACI\'d3N.\b0  Tambi\'e9n debe cumplir con todas las leyes y reglamentos locales e internacionales de exportaci\'f3n que se apliquen al software, incluidas restricciones de destino, usuarios finales y uso final. \fs19 Para obtener m\'e1s informaci\'f3n sobre las restricciones en materia de exportaci\'f3n, visite {\cf2\ul\fs20{\field{\*\fldinst{HYPERLINK "http://www.microsoft.com/exporting"}}{\fldrslt{www.microsoft.com/exporting}}}}\f0\fs20 . \ul\par
+{\pntext\f2\'B7\tab}\ulnone\b SERVICIOS DE SOPORTE T\'c9CNICO. \b0 Debido a que este software se presenta \ldblquote tal cual\rdblquote , no podemos prestar servicios de soporte t\'e9cnico para el mismo.\par
+{\pntext\f2\'B7\tab}\b CONTRATO COMPLETO.\b0  Este contrato y los t\'e9rminos aplicables a complementos, actualizaciones, servicios basados en Internet y servicios de soporte t\'e9cnico que utilice constituyen el contrato completo respecto al software y a los servicios de soporte t\'e9cnico.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-360\li360\sb120\sa120\sl240\slmult1\tx360\b LEGISLACI\'d3N APLICABLE. \b0 Si adquiri\'f3 el software en los Estados Unidos, la legislaci\'f3n del estado de Washington regir\'e1 la interpretaci\'f3n de este contrato, as\'ed como las reclamaciones por incumplimiento, y la legislaci\'f3n del estado donde usted resida regir\'e1 todas las dem\'e1s reclamaciones. Si adquiri\'f3 el software en otro pa\'eds, se aplicar\'e1n las leyes de dicho pa\'eds.\b\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-360\li360\sb120\sa120\sl240\slmult1\tx360\tx540 DERECHOS DE CONSUMIDOR; VARIANTES REGIONALES. \b0 En este contrato se describen determinados derechos legales. Puede que usted tenga otros derechos, incluidos derechos del consumidor, seg\'fan la legislaci\'f3n de su estado o pa\'eds. Por separado e independientemente de su relaci\'f3n con Microsoft, puede tener derechos con respecto a la parte de la que adquiri\'f3 el software. Este contrato no modifica los otros derechos de los que dispone en virtud de la legislaci\'f3n de su estado, pa\'eds o regi\'f3n si dicha legislaci\'f3n no lo permite. Por ejemplo, si adquiri\'f3 el software en una de las regiones que figuran a continuaci\'f3n, o si se aplican leyes obligatorias del pa\'eds o la regi\'f3n, las siguientes disposiciones se aplican a su caso:\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-360\li717\sb120\sa120\sl240\slmult1\tx720\b Australia. \b0 Usted cuenta con garant\'edas legales en virtud de la Ley de protecci\'f3n al consumidor de Australia y ning\'fan punto de este contrato pretende modificar dichos derechos.\par
+{\pntext\f2\'B7\tab}\b Canad\'e1. \b0 Si adquiri\'f3 este software en Canad\'e1, puede dejar de recibir actualizaciones autom\'e1ticas al desactivar esta caracter\'edstica, desconectar su dispositivo de Internet (sin embargo, cuando se vuelva a conectar a Internet, el software continuar\'e1 buscando y descargando actualizaciones) o desinstalar el software. La documentaci\'f3n del producto, de haberla, tambi\'e9n puede especificar c\'f3mo desactivar las actualizaciones para su dispositivo o software espec\'edfico.\par
+{\pntext\f2\'B7\tab}\b Alemania y Austria\b0 .\par
+
+\pard\li717\sb120\sa120\sl240\slmult1\b (i)\b0\tab\b Garant\'eda\b0 . El software debidamente licenciado funcionar\'e1, sustancialmente, como se describe en cualquier material de Microsoft que acompa\'f1a al software. Sin embargo, Microsoft no otorga garant\'eda contractual en relaci\'f3n con el software licenciado.\par
+\b (ii)\b0\tab\b Limitaci\'f3n de responsabilidad\b0 . En caso de conducta intencionada, negligencia grave, reclamaciones basadas en la Ley de Responsabilidad Civil del Fabricante (Product Liability Act), as\'ed como en caso de muerte o lesiones personales o f\'edsicas, la responsabilidad de Microsoft estar\'e1 supeditada a la legislaci\'f3n aplicable.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li717\sb120\sa120\sl240\slmult1\tx360 Sujeto a la cl\'e1usula anterior (ii), Microsoft solo ser\'e1 responsable de negligencia leve si Microsoft incumple las obligaciones contractuales materiales, cuyo cumplimiento permite la debida ejecuci\'f3n de este contrato, y cuya infracci\'f3n har\'eda peligrar el prop\'f3sito de este contrato y la confianza de una parte en su cumplimiento (denominadas "obligaciones cardinales"). En otros casos de negligencia leve, Microsoft no ser\'e1 responsable de dicha negligencia.\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent360{\pntxtb\'B7}}\fi-357\li357\sb120\sa120\sl240\slmult1\tx360\b EXCLUSI\'d3N DE GARANT\'cdAS. EL SOFTWARE SE LICENCIA \ldblquote TAL CUAL\rdblquote . USTED ACEPTA EL RIESGO DE UTILIZARLO. MICROSOFT NO OTORGA NINGUNA GARANT\'cdA NI CONDICI\'d3N EXPRESAS. EN LA MEDIDA QUE AS\'cd LO PERMITA LA LEGISLACI\'d3N LOCAL, MICROSOFT EXCLUYE LAS GARANT\'cdAS IMPL\'cdCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN PARTICULAR Y AUSENCIA DE INFRACCI\'d3N DE DERECHOS.\par
+{\pntext\f2\'B7\tab}LIMITACI\'d3N Y EXCLUSI\'d3N DE INDEMNIZACIONES. LA CANTIDAD M\'c1XIMA QUE SE PODR\'c1 OBTENER DE MICROSOFT Y DE SUS PROVEEDORES EN CONCEPTO DE INDEMNIZACI\'d3N POR DA\'d1OS DIRECTOS SER\'c1 DE USD 5. NO PODR\'c1 OBTENER INDEMNIZACI\'d3N ALGUNA POR DA\'d1OS DE OTRA \'cdNDOLE, INCLUIDOS LOS DA\'d1OS CONSECUENCIALES, POR LUCRO CESANTE, ESPECIALES, INDIRECTOS O INCIDENTALES.\par
+
+\pard\li357\sb120\sa120\sl240\slmult1\b0 Esta limitaci\'f3n se aplica a:\~(a) todo lo relacionado con el software, los servicios, el contenido (incluido el c\'f3digo) de sitios de Internet de terceros o de aplicaciones de terceros y (b) reclamaciones por incumplimiento de contrato, incumplimiento de garant\'eda, garant\'eda o condici\'f3n, responsabilidad objetiva, negligencia u otra responsabilidad extracontractual en la medida que lo permita la legislaci\'f3n aplicable.\par
+
+\pard\li360\sb120\sa120\sl240\slmult1 Asimismo, tambi\'e9n se aplicar\'e1 incluso si Microsoft conoc\'eda o deber\'eda haber conocido la posibilidad de que se produjesen dichos da\'f1os. Tambi\'e9n pueden producirse situaciones en las que la limitaci\'f3n o exclusi\'f3n precedente no pueda aplicarse a su caso porque su jurisdicci\'f3n no admite la exclusi\'f3n o limitaci\'f3n de da\'f1os incidentales, consecuenciales o de otra \'edndole.\par
+\par
+EULA ID: V C++ 2017_RTW.3_ESN\par
+\par
+}
+ 

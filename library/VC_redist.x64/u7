@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+-->
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <Control Control="EulaAcceptCheckbox" X="11" Y="-41" Width="-11" Height="29"/>
+
+  <String Id="Caption">Instalační program [WixBundleName]</String>
+  <String Id="Title">[WixBundleName]</String>
+  <String Id="ConfirmCancelMessage">Opravdu chcete akci zrušit?</String>
+  <String Id="HelpHeader">Nápověda nastavení</String>
+  <String Id="HelpText">/install | /repair | /uninstall | /layout [adresář] – Nainstaluje, opraví, odinstaluje nebo
+   vytvoří úplnou místní kopii svazku v adresáři. Výchozí možností je instalace.
+
+/passive | /quiet –  Zobrazí minimální uživatelské rozhraní bez výzev nebo nezobrazí žádné uživatelské rozhraní a
+   žádné výzvy. Výchozí možností je zobrazení uživatelského rozhraní a všech výzev.
+
+/norestart   – potlačí všechny pokusy o restartování. Ve výchozím nastavení uživatelské rozhraní před restartováním zobrazí výzvu.
+/log log.txt – Uloží protokol do konkrétního souboru. Ve výchozím nastavení bude soubor protokolu vytvořen v adresáři %TEMP%.</String>
+  <String Id="HelpCloseButton">&amp;Zavřít</String>
+  <String Id="InstallAcceptCheckbox">Souhl&amp;asím s licenčními podmínkami</String>
+  <String Id="InstallOptionsButton">M&amp;ožnosti</String>
+  <String Id="InstallInstallButton">&amp;Instalovat</String>
+  <String Id="InstallCloseButton">&amp;Zavřít</String>
+  <String Id="OptionsHeader">Možnosti instalace</String>
+  <String Id="OptionsLocationLabel">Umístění instalace:</String>
+  <String Id="OptionsBrowseButton">&amp;Procházet</String>
+  <String Id="OptionsOkButton">&amp;OK</String>
+  <String Id="OptionsCancelButton">&amp;Storno</String>
+  <String Id="ProgressHeader">Průběh instalace</String>
+  <String Id="ProgressLabel">Probíhá zpracování:</String>
+  <String Id="OverallProgressPackageText">Inicializování...</String>
+  <String Id="ProgressCancelButton">&amp;Storno</String>
+  <String Id="ModifyHeader">Změnit instalaci</String>
+  <String Id="ModifyRepairButton">Op&amp;ravit</String>
+  <String Id="ModifyUninstallButton">O&amp;dinstalovat</String>
+  <String Id="ModifyCloseButton">&amp;Zavřít</String>
+  <String Id="SuccessHeader">Instalace byla úspěšná</String>
+  <String Id="SuccessLaunchButton">&amp;Spustit</String>
+  <String Id="SuccessRestartText">Před použitím tohoto softwaru je potřeba restartovat počítač.</String>
+  <String Id="SuccessRestartButton">&amp;Restartovat</String>
+  <String Id="SuccessCloseButton">&amp;Zavřít</String>
+  <String Id="FailureHeader">Instalace se nezdařila</String>
+  <String Id="FailureHyperlinkLogText">Jeden nebo více problémů způsobilo selhání instalace. Opravte tyto problému a znovu spusťte instalaci. Pro více informací se podívejte do &lt;a href="#"&gt;souboru protokolu&lt;/a&gt;.</String>
+  <String Id="FailureRestartText">Pro dokončení vrácení změn tohoto softwaru je potřeba restartovat počítač.</String>
+  <String Id="FailureRestartButton">&amp;Restartovat</String>
+  <String Id="FailureCloseButton">&amp;Zavřít</String>
+</WixLocalization>

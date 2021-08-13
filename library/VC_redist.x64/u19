@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+-->
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <Control Control="EulaAcceptCheckbox" X="11" Y="-41" Width="-11" Height="29"/>
+
+  <String Id="Caption">Instalator [WixBundleName]</String>
+  <String Id="Title">[WixBundleName]</String>
+  <String Id="ConfirmCancelMessage">Czy na pewno chcesz anulować?</String>
+  <String Id="HelpHeader">Instalator — Pomoc</String>
+  <String Id="HelpText">/install | /repair | /uninstall | /layout [katalog] - Instaluje, naprawia, odinstalowuje
+   lub tworzy pełną lokalną kopię pakietu w katalogu. Domyślnie jest używany przełącznik install.
+
+/passive | /quiet -  Wyświetla ograniczony interfejs użytkownika bez monitów albo nie wyświetla ani interfejsu użytkownika,
+   ani monitów. Domyślnie jest wyświetlany interfejs użytkownika oraz wszystkie monity.
+
+/norestart   - Pomija próby ponownego uruchomienia. Domyślnie interfejs użytkownika wyświetla monit przed ponownym uruchomieniem.
+/log log.txt - Tworzy dziennik w określonym pliku. Domyślnie plik dziennika jest tworzony w katalogu %TEMP%.</String>
+  <String Id="HelpCloseButton">Zamknij</String>
+  <String Id="InstallAcceptCheckbox">Zgadzam się z warunkami licencji</String>
+  <String Id="InstallOptionsButton">&amp;Opcje</String>
+  <String Id="InstallInstallButton">Zainstaluj</String>
+  <String Id="InstallCloseButton">Zamknij</String>
+  <String Id="OptionsHeader">Opcje instalatora</String>
+  <String Id="OptionsLocationLabel">Lokalizacja instalacji:</String>
+  <String Id="OptionsBrowseButton">Przeglądaj</String>
+  <String Id="OptionsOkButton">OK</String>
+  <String Id="OptionsCancelButton">Anuluj</String>
+  <String Id="ProgressHeader">Postęp instalacji</String>
+  <String Id="ProgressLabel">Przetwarzanie:</String>
+  <String Id="OverallProgressPackageText">Inicjowanie...</String>
+  <String Id="ProgressCancelButton">Anuluj</String>
+  <String Id="ModifyHeader">Zmodyfikuj instalatora</String>
+  <String Id="ModifyRepairButton">Napraw</String>
+  <String Id="ModifyUninstallButton">Odinstaluj</String>
+  <String Id="ModifyCloseButton">Zamknij</String>
+  <String Id="SuccessHeader">Instalacja przebiegła pomyślnie</String>
+  <String Id="SuccessLaunchButton">Uruchom</String>
+  <String Id="SuccessRestartText">Aby korzystać z oprogramowania, należy ponownie uruchomić komputer.</String>
+  <String Id="SuccessRestartButton">Uruchom ponownie</String>
+  <String Id="SuccessCloseButton">Zamknij</String>
+  <String Id="FailureHeader">Instalacja nie powiodła się</String>
+  <String Id="FailureHyperlinkLogText">Jeden lub więcej problemów spowodował niepowodzenie instalacji. Napraw błędy, a następnie uruchom ponownie instalację. Aby uzyskać więcej informacji zobacz &lt;a href="#"&gt;plik dziennika&lt;/a&gt;.</String>
+  <String Id="FailureRestartText">Należy ponownie uruchomić komputer, aby dokończyć wycofywanie oprogramowania.</String>
+  <String Id="FailureRestartButton">Uruchom ponownie</String>
+  <String Id="FailureCloseButton">Zamknij</String>
+</WixLocalization>
